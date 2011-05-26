@@ -4,4 +4,6 @@ If there's any crazy git command you use, any more complicated thing you'd like 
 As of now:
 
 git unstage <file>  : removes changes from the index
-git file-log <file> : shows all commits that have touched a file
+git file-log <file> : shows all commits that have touched a file (even if  you have renamed/moved it)
+
+To create the aliases just clone the project and run the shell script.
