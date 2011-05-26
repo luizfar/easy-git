@@ -1,0 +1,7 @@
+Simple script that creates some useful git aliases to make it more user friendly.
+If there's any crazy git command you use, any more complicated thing you'd like to do with git but can't figure out, or something you wish git would do easier, please contribute!
+
+As of now:
+
+git unstage <file>  : removes changes from the index
+git file-log <file> : shows all commits that have touched a file
